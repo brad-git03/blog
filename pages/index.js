@@ -17,7 +17,7 @@ export default function Home() {
           My favorite music genres are lofi music, which I find incredibly relaxing, and OPM songs, which I love for their meaningful lyrics and unique melodies. When it comes to food, I'm a big fan of pizza, ramen, and sushi.
         </p>
         <p>
-          Looking ahead, my goal is to become a successful developer. I'm dedicated to honing my skills and learning new technologies to achieve this dream.
+          Looking ahead, my goal is to become a successful developer. I'm dedicated to honing my skills and learning new technologies and programming languages to achieve this dream.
         </p>
       </section>
     </Layout>

@@ -17,7 +17,7 @@ export default function Home() {
           My favorite music genres are lofi music, which I find incredibly relaxing, and OPM songs, which I love for their meaningful lyrics and unique melodies. When it comes to food, I'm a big fan of pizza, ramen, and sushi.
         </p>
         <p>
-          Looking ahead, my goal is to become a successful developer. I'm dedicated to honing my skills and learning new technologies and programming languages to achieve this dream.
+          Five years from now, I see myself as a successful developer. I'll have built a fulfilling career, constantly learning new technologies, and contributing to meaningful projects. I am dedicated to making that vision a reality and becoming a skilled and successful developer.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}

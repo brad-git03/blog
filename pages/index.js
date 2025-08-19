@@ -19,6 +19,10 @@ export default function Home() {
         <p>
           Looking ahead, my goal is to become a successful developer. I'm dedicated to honing my skills and learning new technologies and programming languages to achieve this dream.
         </p>
+        <p>
+          (This is a sample website - you’ll be building a site like this on{' '}
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+        </p>        
       </section>
     </Layout>
   );
